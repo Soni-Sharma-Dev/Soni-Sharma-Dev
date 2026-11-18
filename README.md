@@ -194,15 +194,6 @@ I believe that quality, communication, and proper coordination are essential for
     alt="GitHub statistics"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
 ---
 
 <!-- PROJECTS -->
